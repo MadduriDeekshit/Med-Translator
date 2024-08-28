@@ -33,4 +33,4 @@ Ensure you have the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/MadduriDeekshit/pdf-to-text-translator.git
+   git clone https://github.com/MadduritDeekshit/pdf-to-text-translator.git
